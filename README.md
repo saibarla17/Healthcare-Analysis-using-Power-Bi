@@ -55,4 +55,4 @@ By combining **Power Query for ETL**, **DAX for calculations**, and **data model
 
 
 
-👉 Would you like me to also create a **shorter version** (1-minute read) for recruiters who don’t have time to go through the full details, so you can add that as a top summary in your README?
+
